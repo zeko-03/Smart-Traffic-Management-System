@@ -107,6 +107,22 @@ During execution, the simulator prints the state of each intersection over time 
 
 ---
 
+## How to Run
+
+### Requirements
+
+- Visual Studio 2022 (or later)
+- C++ Desktop Development workload
+
+### Steps
+
+1. Clone the repository.
+2. Open the solution (.sln) file.
+3. Build the project.
+4. Make sure `sample_input.txt` is located in the project directory.
+5. Run the application.
+
+
 ## Course
 
 CSAI 201 – Data Structures
