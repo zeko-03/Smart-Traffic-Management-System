@@ -76,6 +76,12 @@ The simulator reads simulation data from a text file including:
 
 ---
 
+## Sample Input
+
+The project reads all simulation data from a structured text file containing the simulation configuration, vehicles, and scheduled traffic events.
+
+![Sample Input](screenshots/sample_input.png)
+
 ## Output
 
 The simulator generates:
@@ -86,6 +92,12 @@ The simulator generates:
 - Final simulation summary
 
 ---
+
+## Sample Output
+
+During execution, the simulator prints the state of each intersection over time and generates a final traffic summary including simulation statistics.
+
+![Sample Output](screenshots/sample_output.png)
 
 ## Team Members
 
