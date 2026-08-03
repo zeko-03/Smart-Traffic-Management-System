@@ -75,11 +75,11 @@ The simulator reads simulation data from a text file including:
 - Traffic configuration
 
 ---
-## Sample Input
+## Simulation Input
 
-The project reads all simulation data from a structured text file containing the simulation configuration, vehicles, and scheduled traffic events.
+The simulator reads all simulation data from a structured text file containing vehicle information, traffic events, intersections, and simulation configuration.
 
-![Sample Input](screenshots/sample_input.png)
+![Simulation Input](screenshots/sample_input.png)
 
 
 ## Output
