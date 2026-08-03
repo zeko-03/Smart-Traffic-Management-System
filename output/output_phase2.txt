@@ -1,0 +1,123 @@
+----- Time: 8 -----
+Intersection 0
+ Lane 0: empty
+ Lane 1: empty
+ Lane 2: empty
+ Lane 3: empty
+
+Intersection 1
+ Lane 0: empty
+ Lane 1: empty
+ Lane 2: empty
+ Lane 3: empty
+
+Intersection 2
+ Lane 0: empty
+ Lane 1: empty
+ Lane 2: empty
+ Lane 3: empty
+
+[LOG] Arrival vehicle 112 at intersection 0 lane 2
+----- Time: 11 -----
+Intersection 0
+ Lane 0: empty
+ Lane 1: empty
+ Lane 2: [id=112 rem=3]
+ Lane 3: empty
+
+Intersection 1
+ Lane 0: empty
+ Lane 1: empty
+ Lane 2: empty
+ Lane 3: empty
+
+Intersection 2
+ Lane 0: empty
+ Lane 1: empty
+ Lane 2: empty
+ Lane 3: empty
+
+----- Time: 12 -----
+Intersection 0
+ Lane 0: empty
+ Lane 1: empty
+ Lane 2: [id=112 rem=2]
+ Lane 3: empty
+
+Intersection 1
+ Lane 0: empty
+ Lane 1: empty
+ Lane 2: empty
+ Lane 3: empty
+
+Intersection 2
+ Lane 0: empty
+ Lane 1: empty
+ Lane 2: empty
+ Lane 3: empty
+
+----- Time: 13 -----
+Intersection 0
+ Lane 0: empty
+ Lane 1: empty
+ Lane 2: [id=112 rem=1]
+ Lane 3: empty
+
+Intersection 1
+ Lane 0: empty
+ Lane 1: empty
+ Lane 2: empty
+ Lane 3: empty
+
+Intersection 2
+ Lane 0: empty
+ Lane 1: empty
+ Lane 2: empty
+ Lane 3: empty
+
+----- Time: 14 -----
+Intersection 0
+ Lane 0: empty
+ Lane 1: empty
+ Lane 2: empty
+ Lane 3: empty
+
+Intersection 1
+ Lane 0: empty
+ Lane 1: empty
+ Lane 2: empty
+ Lane 3: empty
+
+Intersection 2
+ Lane 0: empty
+ Lane 1: empty
+ Lane 2: empty
+ Lane 3: empty
+
+
+===== FINAL SUMMARY =====
+Total Arrivals  : 1
+Total Finished  : 1
+Total Canceled  : 0
+Total Promoted  : 0
+Average Waiting : 0
+=========================
+----- Time: 1000010 -----
+Intersection 0
+ Lane 0: empty
+ Lane 1: empty
+ Lane 2: empty
+ Lane 3: empty
+
+Intersection 1
+ Lane 0: empty
+ Lane 1: empty
+ Lane 2: empty
+ Lane 3: empty
+
+Intersection 2
+ Lane 0: empty
+ Lane 1: empty
+ Lane 2: empty
+ Lane 3: empty
+
